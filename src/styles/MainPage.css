@@ -1,0 +1,20 @@
+body {
+    background-color: #7ebfff;
+}
+
+.MainPageForm {
+    text-align: center;
+    font-family: Courier New;
+    font-size: large;
+    text-decoration: none;
+    background-color: #0079f1;
+}
+
+.Direction {
+    background-color: #e45353;
+    margin: 2%;
+    padding: 1%;
+    border: none;
+    border-radius: 12px;
+    text-align: center;
+}
